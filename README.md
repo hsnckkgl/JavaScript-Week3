@@ -1,1 +1,1 @@
-# JAVASCRIPT-Week3
+# JavaScript Week3 Exercises
